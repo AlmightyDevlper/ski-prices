@@ -1,0 +1,10 @@
+name,country,day_price,currency,source,updated
+Zermatt,Switzerland,92,CHF,https://example.com/zermatt,2026-10-08
+Verbier,Switzerland,84,CHF,https://example.com/verbier,2026-10-08
+Laax,Switzerland,89,CHF,https://example.com/laax,2026-10-08
+St. Anton,Austria,78,EUR,https://example.com/st-anton,2026-10-08
+Ischgl,Austria,81,EUR,https://example.com/ischgl,2026-10-08
+Kitzbühel,Austria,76,EUR,https://example.com/kitzbuehel,2026-10-08
+Chamonix,France,70,EUR,https://example.com/chamonix,2026-10-08
+Val d'Isère,France,72,EUR,https://example.com/val-disere,2026-10-08
+Les Gets,France,58,EUR,https://example.com/les-gets,2026-10-08

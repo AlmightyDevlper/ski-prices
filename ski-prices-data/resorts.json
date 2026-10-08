@@ -1,0 +1,80 @@
+{
+  "Switzerland": [
+    {
+      "name": "Zermatt",
+      "country": "Switzerland",
+      "day_price": 92.0,
+      "currency": "CHF",
+      "source": "https://example.com/zermatt",
+      "updated": "2026-10-08"
+    },
+    {
+      "name": "Verbier",
+      "country": "Switzerland",
+      "day_price": 84.0,
+      "currency": "CHF",
+      "source": "https://example.com/verbier",
+      "updated": "2026-10-08"
+    },
+    {
+      "name": "Laax",
+      "country": "Switzerland",
+      "day_price": 89.0,
+      "currency": "CHF",
+      "source": "https://example.com/laax",
+      "updated": "2026-10-08"
+    }
+  ],
+  "Austria": [
+    {
+      "name": "St. Anton",
+      "country": "Austria",
+      "day_price": 78.0,
+      "currency": "EUR",
+      "source": "https://example.com/st-anton",
+      "updated": "2026-10-08"
+    },
+    {
+      "name": "Ischgl",
+      "country": "Austria",
+      "day_price": 81.0,
+      "currency": "EUR",
+      "source": "https://example.com/ischgl",
+      "updated": "2026-10-08"
+    },
+    {
+      "name": "Kitzbühel",
+      "country": "Austria",
+      "day_price": 76.0,
+      "currency": "EUR",
+      "source": "https://example.com/kitzbuehel",
+      "updated": "2026-10-08"
+    }
+  ],
+  "France": [
+    {
+      "name": "Chamonix",
+      "country": "France",
+      "day_price": 70.0,
+      "currency": "EUR",
+      "source": "https://example.com/chamonix",
+      "updated": "2026-10-08"
+    },
+    {
+      "name": "Val d'Isère",
+      "country": "France",
+      "day_price": 72.0,
+      "currency": "EUR",
+      "source": "https://example.com/val-disere",
+      "updated": "2026-10-08"
+    },
+    {
+      "name": "Les Gets",
+      "country": "France",
+      "day_price": 58.0,
+      "currency": "EUR",
+      "source": "https://example.com/les-gets",
+      "updated": "2026-10-08"
+    }
+  ]
+}
