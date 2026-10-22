@@ -1,1 +1,22 @@
 @import "tailwindcss";
+
+@theme inline {
+  --font-display: var(--font-bricolage);
+  --font-body: var(--font-dm-sans);
+}
+
+/* General/overall styling */
+
+button {
+  cursor: pointer;
+}
+
+/* END */
+
+.searchButtons:first-child {
+   @apply bg-[#5CE1E6] text-black font-bold py-2 px-4 rounded-full;
+}
+
+.searchButtons:not(first-child) {
+   @apply bg-[#121A2B] text-white font-bold py-2 px-4 rounded-full;
+}
