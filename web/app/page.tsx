@@ -9,7 +9,7 @@ import { count } from "console";
 export default function Home() {
 
   const [search, setSearch] = useState("");
-  const [selected, setSelected] = useState("all");
+  const [selected, setSelected] = useState("All");
   const [sortBy, setSortBy] = useState("");
 
   return (
@@ -70,7 +70,7 @@ export default function Home() {
               return b.day_price - a.day_price;
             }
 
-            return a.day_price - b.day_price
+            return a.day_price - b.day_price;
           })
 
         if (visible.length === 0) return null;
